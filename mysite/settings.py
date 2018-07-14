@@ -25,7 +25,7 @@ SECRET_KEY = 'du20=9&z92(9)#)n^ivz^rtc))kk*7(31@dsk2$()#=3e2r)i0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','<mjalmario>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','mjalmario.pythonanywhere.com']
 
 
 # Application definition
